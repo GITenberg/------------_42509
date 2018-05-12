@@ -1,0 +1,44 @@
+_repo: '------------_42509'
+_version: 0.1.0
+alternative_title: Bélisaire. Greek
+contributor:
+  translator:
+    agent_name: Pangalos, Alexandros
+    alias: Πάγκαλος, Αλέξανδρος
+    gutenberg_agent_id: '41721'
+    url: http://www.gutenberg.org/2009/agents/41721
+covers:
+- cover_type: archival
+  image_path: 42509-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marmontel, Jean-François
+    aliases:
+    - Du Marmontel, Jean-François
+    - Marmontel, Jean-François de
+    - Marmontel, Jean François
+    - Marmontel, Jean-Francois
+    - Marmontell, Jean-François
+    - Marmontel, J.-F. (Jean-François)
+    - De Marmontel, Jean-François
+    - Montmartel, Jean-François
+    birthdate: 1723
+    deathdate: 1799
+    gutenberg_agent_id: '32074'
+    url: http://www.gutenberg.org/2009/agents/32074
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Marmontel
+description: 'Translation of: Bélisaire'
+gutenberg_issued: '2013-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42509'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biographical fiction'
+- !lcc 'PQ'
+- !lcsh 'Belisarius, approximately 505-565 -- Fiction'
+title: Ο Βελισάριος
+url: http://www.gutenberg.org/ebooks/42509
